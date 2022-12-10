@@ -103,11 +103,11 @@ def exercice6(file_path1, file_path2):
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
-    exercice1("./exemple.txt", "./exemple2.txt")
-    exercice2("./exemple.txt", "./exemple_copy.txt")
-    exercice3("./notes.txt", "./notes_letter.txt")
-    exercice4("./recettes.p")
-    print(exercice5("./exemple.txt"))
+    # exercice1("./exemple.txt", "./exemple2.txt")
+    # exercice2("./exemple.txt", "./exemple_copy.txt")
+    # exercice3("./notes.txt", "./notes_letter.txt")
+    # exercice4("./recettes.p")
+    # print(exercice5("./exemple.txt"))
     exercice6("./notes.txt", "./notes_skip.txt")
 
     pass
